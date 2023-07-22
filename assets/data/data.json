@@ -1,0 +1,37 @@
+[
+    {
+        "model":"Mac book",
+        "id":"mac01",
+        "company":"Apple Inc"
+    },
+    {
+        "model":"Acer  zenbook",
+        "id":"acer01",
+        "company":"Acer"
+    },
+    {
+        "model":"HP notebook",
+        "id":"hp01",
+        "company":"HP"
+    },
+    {
+        "model":"Lenovo notebook",
+        "id":"lenovo01",
+        "company":"Lenovo"
+    },
+    {
+        "model":"Galaxy book flex",
+        "id":"galaxy01",
+        "company":"Samsung"
+    },
+    {
+        "model":"Chome book",
+        "id":"chrome01",
+        "company":"Goolge"
+    },
+    {
+        "model":"Surface book",
+        "id":"surface01",
+        "company":"Microsoft"
+    }
+]
